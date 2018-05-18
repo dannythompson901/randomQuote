@@ -1,0 +1,62 @@
+/*style.css*/
+
+body{
+    background-image: url(https://i.imgur.com/8EPlqaR.jpg);
+    background-size: cover;
+    font-family: monospace;
+    }
+h2{
+    font-size:40px;
+    color: #FFF;
+    font-weight:800;
+    position: absolute;
+    padding:12px;
+    top:25%;
+    left: 10%;
+    text-shadow: 5px 5px #000;
+    
+}
+h4{
+    font-size:40px;
+    color: darkseagreen;
+    font-weight:800;
+    position: absolute;
+    padding:12px;
+    top:30%;
+    left: 12%;
+}
+
+.btn-quote{
+    font-size: 25px;
+    background: none;
+    color:aqua;
+    font-family: Snell Roundhand;
+    border:none;
+    position: absolute;
+    top:50%;
+    left:21%;
+    font-weight: 1000;
+    text-shadow: 3px 3px #000;
+}
+
+#flip {
+    padding: 5px;
+    text-align: center;
+    background-color: none;
+    border: none;
+    position: fixed
+}
+
+#panel {
+    padding: 10px;
+    display: none;
+    border: none;
+    font-family: 'Tangerine', serif;
+    font-size:40px;
+}
+p{
+    position: absolute;
+    top:50%;
+    color:white;
+    text-shadow: 2px 2px ##095618;
+}
